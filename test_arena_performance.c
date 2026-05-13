@@ -45,7 +45,7 @@ void test_arena_performance(void) {
 }
 
 int main(void) {
-    printf("=== Performance Comparison ===\n");
+    printf("⋆˚꩜｡ Performance Comparison ⋆˚꩜｡\n");
     printf("Running %d allocations of 100 bytes each...\n\n", NUM_ALLOCS);
     
     test_malloc_performance();
